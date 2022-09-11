@@ -9,7 +9,7 @@ import http from "http";
 
 import app from "../app.js";
 
-const debug = debugLib("twitterCloneProject-api:server");
+const debug = debugLib("twittercloneproject-api:server");
 
 /**
  * Get port from environment and store in Express.
